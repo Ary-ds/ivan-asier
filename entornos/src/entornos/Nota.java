@@ -13,6 +13,10 @@ public class Nota {
 		System.out.println();
 		
 		System.out.println("hago el segundo cambio y la subo");
+		System.out.println();
+		
+		
+		System.out.println("provoco el conflito");
 		
 	}
 
