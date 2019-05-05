@@ -13,17 +13,15 @@ public class Nota {
 		System.out.println();
 		
 		System.out.println("hago el segundo cambio y la subo");
-<<<<<<< HEAD
+		
+		System.out.println("subo el tercero cambio del proyecto");
 		System.out.println();
 		
 		
 		System.out.println("provoco el conflito");
-=======
-		// aqui he bajado el cambio que hizo ivan 
-		System.out.println();
->>>>>>> branch 'master' of https://github.com/Ary-ds/ivan-asier.git
+
+		// aqui ya comflito solucionado
 		
-		System.out.println("subo el tercero cambio del proyecto");
 	}
 
 }
