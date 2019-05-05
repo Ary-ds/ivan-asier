@@ -13,7 +13,10 @@ public class Nota {
 		System.out.println();
 		
 		System.out.println("hago el segundo cambio y la subo");
+		// aqui he bajado el cambio que hizo ivan 
+		System.out.println();
 		
+		System.out.println("subo el tercero cambio del proyecto");
 	}
 
 }
