@@ -22,6 +22,8 @@ public class Nota {
 
 		// aqui ya comflito solucionado
 		
+		System.out.println("Cambio nuevo asier");
+		
 	}
 
 }
