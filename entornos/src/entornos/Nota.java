@@ -23,6 +23,8 @@ public class Nota {
 		// aqui ya comflito solucionado
 		
 		System.out.println("Cambio nuevo asier");
+		System.out.println("Subo el nuevo cambio");
+		
 		
 	}
 
